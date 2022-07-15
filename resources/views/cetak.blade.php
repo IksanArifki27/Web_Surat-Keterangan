@@ -26,20 +26,20 @@
         .tab{
             margin-left: 40px
         }
-        .kop img{
+        .kop{
             margin-top: 50px;
             margin-left: 40px;
+         
             
         }
         .kop h2{
             margin-left: 20%;
-            margin-top: -40px;
+            margin-top: 40px;
         }
     </style>
 </head>
 <body>
     <div class="kop">
-    <img src="asset{{'img/untag.png'}}">
     <h2>Universitas 17 Agustus 1945 Surabaya</h2>  
     </div> 
     <h1>Surat Keterangan Aktif Kuliah</h1>
